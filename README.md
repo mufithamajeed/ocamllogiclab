@@ -60,16 +60,3 @@ The program will output the classification for the example formulas included.
 - Explore connection with **SMT solvers** or **Coq/Isabelle** for formal proofs.
 
 ---
-
-## Relevance to Research
-
-This project reflects foundational skills in **formal logic**, **symbolic computation**, and **functional programming**—key areas in:
-
-- Automated Theorem Proving
-- SMT Solving
-- Formal Verification
-- Interactive Proof Assistants
-
-It serves as an entry-level demonstration of computational logic that can be expanded for more advanced proof systems.
-
----
