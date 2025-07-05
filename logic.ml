@@ -1,5 +1,3 @@
-(* OCamlLogicLab: Minimal Propositional Logic Verifier *)
-
 (* Define Boolean expressions *)
 type bool_expr =
   | True
